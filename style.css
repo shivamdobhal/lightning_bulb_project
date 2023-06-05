@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-inline: 23px;
+    margin:50px;  
+}
+.container button{
+    margin-inline: 50px;
+
+}
+
+#offimg{
+    width:600px;
+    height:600px;
+    margin:100px 239px 50px 660px;;
+
+}
+
+#off{
+    border: 2px solid rgb(6, 198, 242);
+    background-color: black;
+    color: aquamarine;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+#on{
+    border: 2px solid rgb(6, 198, 242);
+    background-color: black;
+    color: aquamarine;
+    text-transform: uppercase;
+    font-size: x-large;
+} 
+
+body{
+    background-color: rgb(178, 225, 249);
+}
